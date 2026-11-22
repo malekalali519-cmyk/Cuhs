@@ -4,7 +4,7 @@ import sys
 from datetime import datetime, timezone
 import requests
 
-GITHUB_TOKEN = "DEIN_GITHUB_PAT"
+GITHUB_TOKEN = "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"
 OWNER = "malekalali519-cmyk"
 REPO = "Cuhs"
 BRANCH = "main"
